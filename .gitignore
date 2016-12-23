@@ -1,0 +1,4 @@
+.vs/
+EasingFunctionViewer/bin/
+EasingFunctionViewer/obj/
+*.csproj.user

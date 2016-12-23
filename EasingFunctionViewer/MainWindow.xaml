@@ -1,0 +1,5 @@
+<Window x:Class="EasingFunctionViewer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Easing Function Viewer" Width="725" Height="550" Background="WhiteSmoke">
+</Window>
